@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ai-platform-brief",
+    "verticalName": "AI Platform",
+    "domain": "AI_PLATFORM",
+    "executiveBuyer": "CEO · CTO · CISO",
+    "decisionQuestion": "How ready is the AI governance stack for procurement, board review, and scaled agent operations?",
+    "currentScore": 82,
+    "benchmarkScore": 90,
+    "annualExposureUsd": 540000,
+    "savingsOpportunityUsd": 180000,
+    "investmentNeedUsd": 120000,
+    "whyNow": "AI governance demand is still the fastest path into board-level budget and diligence conversations.",
+    "boardStory": "AI control surfaces already exist, but peers still present cleaner benchmark and ownership proof.",
+    "evidenceState": "CURRENT",
+    "priority": "NOW",
+    "companySignals": ["IBM", "Azure", "OpenAI", "Claude"],
+    "liveProperties": ["watsonx.kineticgain.com", "board.kineticgain.com", "diligence.kineticgain.com"],
+    "nextAction": "Lead the next subscription issue with agent readiness, decision-card evidence, and procurement-safe controls."
+  },
+  {
+    "id": "cloud-identity-brief",
+    "verticalName": "Cloud and Identity",
+    "domain": "CLOUD_IDENTITY",
+    "executiveBuyer": "CIO · CTO · CISO",
+    "decisionQuestion": "Where do cloud-control gaps, identity drift, and admin exposure still create board-level risk?",
+    "currentScore": 77,
+    "benchmarkScore": 86,
+    "annualExposureUsd": 490000,
+    "savingsOpportunityUsd": 155000,
+    "investmentNeedUsd": 110000,
+    "whyNow": "Enterprise-recognizable Microsoft, AWS, GCP, and identity controls make this an easy board topic.",
+    "boardStory": "Cloud proof is commercially legible, but benchmark pressure still sits in evidence freshness and operating ownership.",
+    "evidenceState": "STALE",
+    "priority": "NOW",
+    "companySignals": ["Azure", "AWS", "GCP", "Okta", "UKG"],
+    "liveProperties": ["protect.kineticgain.com", "guest.kineticgain.com", "defender.kineticgain.com"],
+    "nextAction": "Tighten the identity evidence layer and publish the benchmark deltas as one executive brief chapter."
+  }
+]

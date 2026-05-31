@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ai-platform-brief",
+    "verticalName": "AI Platform",
+    "domain": "AI_PLATFORM",
+    "executiveBuyer": "CEO · CTO · CISO",
+    "decisionQuestion": "How ready is the AI governance stack for procurement, board review, and scaled agent operations?",
+    "currentScore": 88,
+    "benchmarkScore": 90,
+    "annualExposureUsd": 420000,
+    "savingsOpportunityUsd": 190000,
+    "investmentNeedUsd": 100000,
+    "whyNow": "AI governance demand is still the fastest path into board-level budget and diligence conversations.",
+    "boardStory": "AI control surfaces already exist, and the benchmark story is now cleaner than the first release.",
+    "evidenceState": "CURRENT",
+    "priority": "NEXT",
+    "companySignals": ["IBM", "Azure", "OpenAI", "Claude"],
+    "liveProperties": ["watsonx.kineticgain.com", "board.kineticgain.com", "diligence.kineticgain.com"],
+    "nextAction": "Refresh the next issue with benchmark movement and control adoption metrics."
+  },
+  {
+    "id": "fintech-brief",
+    "verticalName": "FinTech",
+    "domain": "FINTECH",
+    "executiveBuyer": "CEO · CFO · COO",
+    "decisionQuestion": "Where do payment exceptions, merchant review, KYC drift, and treasury signals still erode confidence?",
+    "currentScore": 80,
+    "benchmarkScore": 83,
+    "annualExposureUsd": 450000,
+    "savingsOpportunityUsd": 215000,
+    "investmentNeedUsd": 95000,
+    "whyNow": "Payments, KYC, merchant risk, and treasury make a clean executive lane tied directly to margin and board reporting.",
+    "boardStory": "This stays one of the strongest cost-plus-risk stories because the savings case is immediate and the buyer is obvious.",
+    "evidenceState": "CURRENT",
+    "priority": "NEXT",
+    "companySignals": ["Payments", "KYC", "Treasury", "Merchant Risk"],
+    "liveProperties": ["payments.kineticgain.com", "merchant.kineticgain.com", "kyc.kineticgain.com"],
+    "nextAction": "Promote the CFO-grade savings and risk narrative in the next board issue."
+  }
+]
